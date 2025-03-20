@@ -14,3 +14,9 @@ This is a simple Java Swing application that allows users to create and visualiz
 
 - Java Development Kit (JDK) 8 or higher
 - JFreeChart library (included in the project)
+
+## Usage
+- Enter data in the table by filling in the "Category" and "Value" columns.
+- Click "Add Data" to generate the chart based on the input.
+- Use the dropdown menu to select the type of chart you want to display.
+- You can add new rows or remove selected rows as needed.
